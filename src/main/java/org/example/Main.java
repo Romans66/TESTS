@@ -14,7 +14,7 @@ public class Main {
     property.Inc();
     // Вызов метода Inc - инициализация хрома с настрйоками
     property.Driver();
-    // Вызов метода Driver - автотест
+    // Вызов метода Driver - автотесты
 
 
 
